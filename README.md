@@ -15,8 +15,8 @@
 * [Tests](#Tests)
 * [Questions](#Questions)
   
-  ## Installation
-  n/a
+  ## Demo
+  ![Image](https://media.giphy.com/media/X1QMEGMI7WzDfxGgpp/giphy.gif)
   
   ## Usage
   A series of prompts helps you organize your team's contact information. Letting you add as many team members as you like in the positions of Manager, Engineer and Intern.
