@@ -25,7 +25,7 @@
   n/a
 
   ## Contributing
-  I did! Kevin Willig helped me with the final bug. :)
+  I did! Kevin and Aleks helped too. :)
   
   ## Tests
   Over and over and over again.
